@@ -5,7 +5,7 @@ A MATLAB/Octave implementation of image compression using Singular Value Decompo
 This Project demonstrate how SVD can be used for image compression by keeping only the most biggest singular values
 
 ## Features
-- Image compression using SVD
-- Compression ratio analysis
+- 🗜️Image compression using SVD
+- :bush: Compression ratio analysis
 - Visual quality comparison
 - Energy capture analysis
