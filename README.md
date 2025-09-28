@@ -6,6 +6,6 @@ This Project demonstrate how SVD can be used for image compression by keeping on
 
 ## Features
 - 🗜️Image compression using SVD
-- :bush: Compression ratio analysis
+- :blush: Compression ratio analysis
 - Visual quality comparison
 - Energy capture analysis
